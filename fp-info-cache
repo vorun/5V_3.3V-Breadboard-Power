@@ -1,78 +1,50 @@
-16623910083938
-Heatsinks
-Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
-Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
-Heatsink, 35mm x 26mm, 1x Fixation 3mm, Kuehlkoerper, Fischer SK486-35, Strangkuehlkoerper
-0
-1
-1
-Heatsinks
-Heatsink_38x38mm_SpringFixation
-Heatsink, 38x38mm, Spring Fixation, diagonal,
-Heatsink, 38x38mm, Spring Fixation, diagonal, Kuehlkoerper, Federbefestigung,
+11338812508011
+Connector_BarrelJack
+BarrelJack_CLIFF_FC681465S_SMT_Horizontal
+Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
+Power Jack SMT
 0
 4
-1
-Heatsinks
-Heatsink_62x40mm_2xFixation3mm
-Heatsink, 62 x 40mm, 2x 3mm Drills,
-Heatsink, 62 x 40mm, 2x 3mm Drills,
+3
+Connector_BarrelJack
+BarrelJack_CUI_PJ-036AH-SMT_Horizontal
+Surface-mount DC Barrel Jack, http://www.cui.com/product/resource/pj-036ah-smt.pdf
+Power Jack SMT
 0
-2
-1
-Heatsinks
-Heatsink_125x35x50mm_3xFixationM3
-
-Heatsink, 125x35x50mm, 3 fixation holes 3.2mm
+3
+3
+Connector_BarrelJack
+BarrelJack_CUI_PJ-063AH_Horizontal
+Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
+barrel jack cui dc power
 0
+4
+3
+Connector_BarrelJack
+BarrelJack_CUI_PJ-063AH_Horizontal_CircularHoles
+Barrel Jack, 2.0mm ID, 5.5mm OD, 24V, 8A, no switch, https://www.cui.com/product/resource/pj-063ah.pdf
+barrel jack cui dc power
 0
+4
+3
+Connector_BarrelJack
+BarrelJack_CUI_PJ-102AH_Horizontal
+Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf
+Power Jack
 0
-Heatsinks
-Heatsink_AAVID_573300D00010G_TO-263
-Heatsink, 12.70mm x 26.16mm x 10.16, SMD, 18K/W, TO-263, D2 Pak, https://www.aavid.com/products/standard/573300d00010g
-Heatsink AAVID TO-263 D2 Pak
+3
+3
+Connector_BarrelJack
+BarrelJack_Horizontal
+DC Barrel Jack
+Power Jack
 0
-2
-1
-Heatsinks
-Heatsink_Aavid-TV5G_TO220_Horizontal
-http://www.aavid.eu/products/standard/tv5g
-Heatsink TV5G TO-220 Horizontal 
+3
+3
+Connector_BarrelJack
+BarrelJack_Wuerth_6941xx301002
+Wuerth electronics barrel jack connector (5.5mm outher diameter, inner diameter 2.05mm or 2.55mm depending on exact order number), See: http://katalog.we-online.de/em/datasheet/6941xx301002.pdf
+connector barrel jack
 0
-0
-0
-Heatsinks
-Heatsink_Fischer_SK104-STC-STIC_35x13mm_2xDrill2.5mm
-Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC,
-Heatsink, 35mm x 13mm, 2x Fixation 2,5mm Drill, Soldering, Fischer SK104-STC-STIC, Kuehlkoerper,  Strangkuehlkoerper, Loetbefestigung, for TO-220
-0
-2
-1
-Heatsinks
-Heatsink_Fischer_SK104-STCB_35x13mm__2xDrill3.5mm_ScrewM3
-Heatsink, 35mm x 13mm, 2x Fixation Screw M3, Fischer SK104-STCB,
-Heatsink, 35mm x 13mm, 2x Fixation Screw M3, Fischer SK104-STCB, Kuehlkoerper,  Strangkuehlkoerper, Schraubbefestigung, Screwed, for TO-220
-0
-2
-1
-Heatsinks
-Heatsink_Fischer_SK129-STS_42x25mm_2xDrill2.5mm
-
-
-0
-2
-1
-Heatsinks
-Heatsink_SheetType_50x7mm_2Fixations
-Heatsink, Sheet type, 50x7mm, 2 fixations (solder),
-Heatsink, Sheet type, 50x7mm, 2 fixations (solder), Kuehlkoerper, From ATX-SMPS Scrap,
-0
-2
-1
-Heatsinks
-Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm
-
-
-0
-2
-1
+3
+3

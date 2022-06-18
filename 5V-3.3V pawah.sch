@@ -429,4 +429,15 @@ $EndComp
 Wire Wire Line
 	3200 2450 3200 2550
 Connection ~ 3200 2550
+$Comp
+L Mechanical:Heatsink HS1
+U 1 1 62AE3852
+P 5400 2550
+F 0 "HS1" H 5542 2671 50  0000 L CNN
+F 1 "Heatsink" H 5542 2580 50  0000 L CNN
+F 2 "TO_SOT_Packages_THT:Heatsink_TO220" H 5412 2550 50  0001 C CNN
+F 3 "~" H 5412 2550 50  0001 C CNN
+	1    5400 2550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
